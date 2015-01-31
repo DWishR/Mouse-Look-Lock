@@ -91,6 +91,7 @@ local MouseLook_FramesToCheck = {
 	"WorldMapFrame",      "VideoOptionsFrame",  "InterfaceOptionsFrame",
         "ACP_AddonList",      "PlayerTalentFrame",  "PVEFrame",           "EncounterJournal",
 	"PetJournalParent",   "AccountantFrame", 
+	"GarrisonLandingPage", "GarrisonMissionFrame", "GarrisonBuildingFrame",
 	--   "NxMap1",  (carbonite's world map breaks mouselook)
 	-- "StoreFrame", (causes taint??!??  wtf, blizzard?)
 	}
