@@ -1,0 +1,12 @@
+## Interface: 60000
+## Title: Mouse_Look_Lock
+## Version: 6.0
+## Author: Trimble Epic (TrimbleEpic@HotMail.Com)
+## Notes: Allows you to lock 'MouseLook' (hold right mouse button) on.
+## DefaultState: enabled
+## X-Category: Interface Enhancements
+## LoadOnDemand: 0
+## SavedVariables: MouseLookOn
+MouseLook.xml
+
+

@@ -1,0 +1,15 @@
+<Bindings>
+	
+	<Binding name="MouseLook_mode_toggle" description="Enable/Disable MouseLook Lock mode" header="MouseLook">
+		
+		MouseLook_Toggle()
+		
+	</Binding>
+	
+	<Binding name="MouseLook_momentary" description="Brings up the pointer while held down" runOnUp="true" hidden="false" header="MouseLook">
+		
+		MouseLook_Momentary(keystate)
+		
+	</Binding>	
+	
+</Bindings>
