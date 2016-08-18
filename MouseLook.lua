@@ -234,6 +234,7 @@ function MouseLook_OnUpdate(self,elapsed,...)
 		and not MouseLook_MomentaryPointer then
 			
 			if CursorHasItem()
+			or SpellIsTargeting()
 			or UnmouseableFrameOnScreen()
 			or MouseIsOverFrame() then
 				
