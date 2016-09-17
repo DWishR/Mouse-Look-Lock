@@ -1,5 +1,5 @@
 --[[------------------------------------------------------------
-	Mouse Look v6.0
+	Mouse Look v7.0
 	
 	By Trimble Epic
 	
@@ -10,8 +10,9 @@
 	way WoW handles it's mouse controlled camera functions
 	
 	Revision History
-	6.0 Nov 13 '14  Updated TOC for use with 6.0
-	5.1 Aug 11 '14  Updated TOC for use with 5.4
+	7.0 Jul 29 '16  Updated TOC for use with 7.0 Legion
+	6.0 Nov 13 '14  Updated TOC for use with 6.0 Wod
+	5.1 Aug 11 '14  Updated TOC for use with 5.4 Cata
 			Also added many new user interface windows to automatically pop up cursor.
 
 	5.0 Aug 29 '12  Updated TOC for use with 5.0.4 Mists of Pandaria
@@ -51,7 +52,7 @@
 	
 --------------------------------------------------------------]]
 
-local Version = '6.0'
+local Version = '7.0'
 local Debugging = false
 local MouseLook_TempLockout = false
 local MouseLook_LastUpdate = 0
