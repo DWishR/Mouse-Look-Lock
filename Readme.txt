@@ -1,4 +1,4 @@
-Mouse_Look_Lock v6.0
+Mouse_Look_Lock v7.0 (For Legion)
 Trimble Epic -> TrimbleEpic@HotMail.Com
 
 Read Me!
