@@ -91,7 +91,7 @@ local MouseLook_FramesToCheck = {
 	"AchievementFrame",   "LookingForGuildFrame", "PVPUIFrame",       "GuildFrame",
 	"WorldMapFrame",      "VideoOptionsFrame",  "InterfaceOptionsFrame",
         "ACP_AddonList",      "PlayerTalentFrame",  "PVEFrame",           "EncounterJournal",
-	"PetJournalParent",   "AccountantFrame", "AdiBagsContainer1",
+	"PetJournalParent",   "AccountantFrame", "AdiBagsContainer1", "ElvUI_ContainerFrame",
 	"GarrisonLandingPage", "GarrisonMissionFrame", "GarrisonBuildingFrame",
 	--   "NxMap1",  (carbonite's world map breaks mouselook)
 	-- "StoreFrame", (causes taint??!??  wtf, blizzard?)
